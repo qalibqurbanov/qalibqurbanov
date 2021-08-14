@@ -1,5 +1,5 @@
 <div align="center">
-    <img height= "50" src="https://readme-typing-svg.herokuapp.com?font=consolas&color=000000&size=22&center=true&vCenter=true&width=600&height=30&lines=%23+Hi%2C+I'm+Qalib+Qurbanov.;%23+I'm+backend+%26+software+dev+from+Azerbaijan.;%23+Welcome+to+my+github+page!" />
+    <img height= "50" src="https://readme-typing-svg.herokuapp.com?font=consolas&color=C691E9&size=22&center=true&vCenter=true&width=600&height=30&lines=%23+Hi%2C+I'm+Qalib+Qurbanov.;%23+I'm+backend+%26+software+dev+from+Azerbaijan.;%23+Welcome+to+my+github+page!" />
 </div>     <br>
 
 
@@ -9,9 +9,9 @@
 <br>
 <h1 align="center">Contacts&nbsp; :envelope:</h1>
 <div align="center">
-    <a href="https://www.linkedin.com/in/qalibqurbanov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://twitter.com/QurbanovQalib"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="mailto:qurbanowqalib@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/qalibqurbanov/"><img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"></a>
+    <a href="https://twitter.com/QurbanovQalib"><img alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter.png"></a>
+    <a href="mailto:qurbanowqalib@gmail.com"><img alt="GMail" src="https://img.icons8.com/color/50/000000/gmail--v1.png"></a>
 </div>     <br><br><br>
 
 
@@ -21,20 +21,11 @@
 <h1 align="center">My tech stack&nbsp; :zap:</h1>
 <div align="center">
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:5px">    
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:5px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:5px">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MS Sql Server" style="vertical-align:top; margin:5px"/>
 </div>     <br><br><br>
 
 
