@@ -1,5 +1,5 @@
 <div align="center">
-    <img height= "50" src="https://readme-typing-svg.herokuapp.com?font=consolas&color=C691E9&size=22&center=true&vCenter=true&width=600&height=30&lines=%23+Hi%2C+I'm+Qalib+Qurbanov.;%23+I'm+backend+%26+software+dev+from+Azerbaijan.;%23+Welcome+to+my+github+page!" />
+    <img height= "50" src="https://readme-typing-svg.herokuapp.com?font=consolas&color=C691E9&size=22&center=true&vCenter=true&width=700&height=30&lines=%23+Hi%2C+I'm+Qalib+Qurbanov.;%23+I'm+backend+%26+software+dev+from+Azerbaijan.;%23+Welcome+to+my+github+page!" />
 </div>     <br>
 
 
@@ -9,9 +9,10 @@
 <br>
 <h1 align="center">Contacts&nbsp; :envelope:</h1>
 <div align="center">
-    <a href="https://www.linkedin.com/in/qalibqurbanov/"><img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"></a>
-    <a href="https://twitter.com/QurbanovQalib"><img alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter.png"></a>
-    <a href="mailto:qurbanowqalib@gmail.com"><img alt="GMail" src="https://img.icons8.com/color/50/000000/gmail--v1.png"></a>
+    <a href="https://www.linkedin.com/in/qalibqurbanov/"><img height=35 alt="LinkedIn" src="https://img.shields.io/badge/qalibqurbanov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/QurbanovQalib"><img height=35 alt="Twitter" src="https://img.shields.io/badge/QurbanovQalib-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a href="https://t.me/vntik"><img height=35 alt="GMail" src="https://img.shields.io/badge/vntik-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="mailto:qurbanowqalib@gmail.com"><img height=35 alt="GMail" src="https://img.shields.io/badge/qurbanowqalib@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>     <br><br><br>
 
 
@@ -21,11 +22,12 @@
 <h1 align="center">My tech stack&nbsp; :zap:</h1>
 <div align="center">
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MS Sql Server" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height=35 alt="HTML" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height=35 alt="CSS" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height=35 alt="JavaScript" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height=35 alt="C#" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height=35 alt="MS Sql Server" style="vertical-align:top; margin:5px"/>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=35 alt="Git" style="vertical-align:top; margin:5px"/>
 </div>     <br><br><br>
 
 
@@ -34,13 +36,13 @@
 
 <h1 align="center">Some of my projects&nbsp; :star:</h1>
 <div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=material-palenight)](https://github.com/qalibqurbanov/qalibqurbanov)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=material-palenight)](https://github.com/qalibqurbanov/qalibqurbanov)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=material-palenight)](https://github.com/qalibqurbanov/qalibqurbanov)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=material-palenight)](https://github.com/qalibqurbanov/qalibqurbanov)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=material-palenight)](https://github.com/qalibqurbanov/qalibqurbanov)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=material-palenight)](https://github.com/qalibqurbanov/qalibqurbanov)
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=REPONAME&theme=omni&hide_border=true"/>
 </div>     <br><br><br>
 
 
@@ -51,8 +53,8 @@
 <details>
     <summary>My github stats :droplet:</summary><br>
     <div align="center" style="display:flex; justify-content:center; align-items:center;">
-        <img height= "150" draggable="false" style="pointer-events: none; user-select:none;" src="https://github-readme-stats.vercel.app/api?username=qalibqurbanov&theme=material-palenight&show_icons=true&include_all_commits=true" />
-        <img height= "150" draggable="false" style="pointer-events: none; user-select:none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalibqurbanov&theme=material-palenight&layout=compact" />
+        <img height= "150" draggable="false" style="pointer-events: none; user-select:none;" src="https://github-readme-stats.vercel.app/api?username=qalibqurbanov&theme=omni&show_icons=true&include_all_commits=true&hide_border=true" />
+        <img height= "150" draggable="false" style="pointer-events: none; user-select:none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalibqurbanov&theme=omni&layout=compact&hide_border=true" />
     </div>
 </details>
 
@@ -76,7 +78,7 @@
 
 
 
-[comments]: <> (material-palenight, react, radical, midnight-purple, material-palenight)
+[comments]: <> (material-palenight, react, radical, midnight-purple, material-palenight, omni, jolly - ve s. : https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 
 
 [comments]: <>
