@@ -70,12 +70,6 @@
 
 
 
-<h1 align="center">Check out my repos&nbsp; :point_down: <img style="background: #f4f4f4;" src="https://www.harryyounger.com/Images/arrow.gif" width="35px"></h1>
-
-
-
-
-
 
 
 
