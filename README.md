@@ -11,7 +11,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/qalibqurbanov/"><img height=35 alt="LinkedIn" src="https://img.shields.io/badge/qalibqurbanov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://twitter.com/QurbanovQalib"><img height=35 alt="Twitter" src="https://img.shields.io/badge/QurbanovQalib-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-    <a href="https://t.me/inde_irae"><img height=35 alt="GMail" src="https://img.shields.io/badge/inde_irae-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://t.me/inde_irae"><img height=35 alt="GMail" src="https://img.shields.io/badge/indeirae-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="mailto:qurbanowqalib@gmail.com"><img height=35 alt="GMail" src="https://img.shields.io/badge/qurbanowqalib@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>     <br><br><br>
 
