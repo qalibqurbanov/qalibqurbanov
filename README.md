@@ -1,5 +1,5 @@
 <div align="center">
-    <img height= "50" src="https://readme-typing-svg.herokuapp.com?font=consolas&color=C691E9&size=22&center=true&vCenter=true&width=700&height=30&lines=%23+Hi%2C+I'm+Qalib+Qurbanov.;%23+I'm+backend+%26+software+dev+from+Azerbaijan.;%23+Welcome+to+my+github+page!" />
+    <img height= "50" src="https://readme-typing-svg.herokuapp.com?font=consolas&color=C691E9&size=22&center=true&vCenter=true&width=700&height=30&lines=%23+Hi%2C+I'm+Qalib+Qurbanov.;%23+and i'm+software+dev+from+Azerbaijan.;%23+Welcome+to+my+github+page!" />
 </div>     <br>
 
 
