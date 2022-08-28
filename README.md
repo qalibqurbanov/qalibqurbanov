@@ -9,9 +9,7 @@
 <br>
 <h1 align="center">Contacts&nbsp; :envelope:</h1>
 <div align="center">
-    <a href="https://www.linkedin.com/in/qalibqurbanov/"><img height=35 alt="LinkedIn" src="https://img.shields.io/badge/qalibqurbanov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://twitter.com/QurbanovQalib"><img height=35 alt="Twitter" src="https://img.shields.io/badge/QurbanovQalib-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-    <a href="https://t.me/inde_irae"><img height=35 alt="GMail" src="https://img.shields.io/badge/indeirae-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://t.me/inde_irae"><img height=35 alt="Telegram" src="https://img.shields.io/badge/indeirae-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="mailto:qurbanowqalib@gmail.com"><img height=35 alt="GMail" src="https://img.shields.io/badge/qurbanowqalib@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>     <br><br><br>
 
@@ -22,9 +20,6 @@
 <h1 align="center">My tech stack&nbsp; :zap:</h1>
 <div align="center">
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height=35 alt="HTML" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height=35 alt="CSS" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height=35 alt="JavaScript" style="vertical-align:top; margin:5px"/>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height=35 alt="C#" style="vertical-align:top; margin:5px"/>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height=35 alt="MS Sql Server" style="vertical-align:top; margin:5px"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=35 alt="Git" style="vertical-align:top; margin:5px"/>
