@@ -36,13 +36,7 @@
 
 <h1 align="center">Some of my projects&nbsp; :star:</h1>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=qalibqurbanov&theme=omni&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=REPONAME&theme=omni&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qalibqurbanov&repo=SoundCloudArtworkDownloader&theme=omni&hide_border=true"/>
 </div>     <br><br><br>
 
 
