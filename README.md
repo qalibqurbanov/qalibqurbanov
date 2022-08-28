@@ -43,7 +43,9 @@
     <summary>My github stats :droplet:</summary><br>
     <div align="center" style="display:flex; justify-content:center; align-items:center;">
         <img height= "150" draggable="false" style="pointer-events: none; user-select:none;" src="https://github-readme-stats.vercel.app/api?username=qalibqurbanov&theme=omni&show_icons=true&include_all_commits=true&hide_border=true" />
-        <img height= "150" draggable="false" style="pointer-events: none; user-select:none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalibqurbanov&theme=omni&layout=compact&hide_border=true" />
+        <img height= "150" draggable="false" style="pointer-events: none; user-select:none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalibqurbanov&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=omni" />
+    
+    [comments]: <> https://github-readme-stats.vercel.app/api/top-langs/?username=qalibqurbanov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
     </div>
 </details>
 
