@@ -9,7 +9,7 @@
 <br>
 <h1 align="center">Contacts&nbsp; :envelope:</h1>
 <div align="center">
-    <a href="https://t.me/inde_irae"><img height=35 alt="Telegram" src="https://img.shields.io/badge/indeirae-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <!-- <a href="https://t.me/@username"><img height=35 alt="Telegram" src="https://img.shields.io/badge/USERNAME-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> -->
     <a href="mailto:qurbanowqalib@gmail.com"><img height=35 alt="GMail" src="https://img.shields.io/badge/qurbanowqalib@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>     <br><br><br>
 
