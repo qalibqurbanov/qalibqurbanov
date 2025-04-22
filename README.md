@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height=35 alt="MS SQL" style="vertical-align:top; margin:5px"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=35 alt="Git" style="vertical-align:top; margin:5px"/>
     <!-- <img src="" height=35 alt="" style="vertical-align:top; margin:5px"/> -->
-</div>     <br><br><br>
+<!-- </div>     <br><br><br>
 -->
 
 
