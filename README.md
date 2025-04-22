@@ -16,7 +16,7 @@
 
 
 
-
+<!--
 <h1 align="center">My tech stack&nbsp; :zap:</h1>
 <div align="center">
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=35 alt="Git" style="vertical-align:top; margin:5px"/>
     <!-- <img src="" height=35 alt="" style="vertical-align:top; margin:5px"/> -->
 </div>     <br><br><br>
-
+-->
 
 
 
