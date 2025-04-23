@@ -16,23 +16,6 @@
 
 
 
-<!--
-<h1 align="center">My tech stack&nbsp; :zap:</h1>
-<div align="center">
-    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height=35 alt="HTML" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height=35 alt="CSS" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.shields.io/badge/SCSS/SASS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height=35 alt="SASS/SCSS" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height=35 alt="JavaScript" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height=35 alt="C#" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height=35 alt="MS SQL" style="vertical-align:top; margin:5px"/>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=35 alt="Git" style="vertical-align:top; margin:5px"/>
-    <!-- <img src="" height=35 alt="" style="vertical-align:top; margin:5px"/> -->
-<!-- </div>     <br><br><br>
--->
-
-
-
 
 <h1 align="center">Some of my projects&nbsp; :star:</h1>
 <div align="center">
